@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Generative AI Email Classification and OCR Solution
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -22,6 +22,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
+
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
